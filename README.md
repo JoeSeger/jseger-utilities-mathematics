@@ -11,7 +11,7 @@ To install the ABF Utilities Mathematics Unity package via Unity Package Manager
 1. Open your Unity project.
 2. Go to `Window` > `Package Manager`.
 3. In the Package Manager window, click the `+` button in the top left corner and select "Add package from git URL..."
-4. Enter the Git URL of this repository (https://github.com/YourGithubUsername/YourRepositoryName.git) and click "Add".
+4. Enter the Git URL of this repository (https://github.com/JoeSeger/jseger-utilities-mathematics.git) and click "Add".
 
 ### Manual Installation
 
