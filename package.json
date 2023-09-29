@@ -1,8 +1,8 @@
 {
   "name": "com.jsegerdev.mathamatics",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "displayName": "JSeger Mathamatics Utilities",
-  "description": "Mono Utilities",
+  "description": "Mathamatics Utilities",
   "unity": "2022.3",
   "author": {
     "name": "Joseph Seger",
